@@ -1,2 +1,8 @@
 # ZIT
 Zero Intelligence Traders
+
+This is a Swift implementation based on the work of Gode & Sunder (1993) and later adaptations by Robert Axtell (1998-2015).
+
+Gode, Dhananjay K., and Shyam Sunder. “Allocative Efficiency of Markets With Zero-Intelligence Traders: Market as a Partial Substitute for Individual Rationality.” Journal of Political Economy, vol. 101, no. 1, Feb. 1993, pp. 119–37. https://doi.org/10.1086/261868.
+
+Comer, K. W., Loerch, A., & Axtell, R. (2014). Agent activation in a replication of the zero-intelligence trader double auction market simulation. In Social Simulation Conference.
